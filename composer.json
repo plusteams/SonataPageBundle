@@ -2,7 +2,7 @@
     "name": "hieuit7/travel-page-bundle",
     "type": "symfony-bundle",
     "description": "Symfony Travel forked from SonataPageBundle",
-    "keywords": ["page", "sonata", "cms", ""],
+    "keywords": ["page", "sonata", "cms", "travel"],
     "homepage": "https://sonata-project.org/bundles/page",
     "license": "MIT",
     "authors": [
